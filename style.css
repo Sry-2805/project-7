@@ -4,6 +4,7 @@ body{
     background-image:url("./image.png");
     background-repeat:repeat;
     background-size:cover;
+     background-color: blue;
      }
      .image{
     border-radius: 100px;
